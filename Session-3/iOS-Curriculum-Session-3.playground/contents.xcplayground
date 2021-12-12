@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Class Advanced'/>
+        <page name='Protocols'/>
+        <page name='Properties'/>
+        <page name='Subscripts'/>
+        <page name='Generics'/>
+        <page name='Type Casting'/>
+    </pages>
+</playground>
